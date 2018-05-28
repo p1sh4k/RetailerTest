@@ -1,0 +1,8 @@
+c:\users\pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Retailer.deps.json
+c:\users\pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.json
+c:\users\pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.dev.json
+c:\users\pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Retailer.dll
+c:\users\pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\Retailer.csprojResolveAssemblyReference.cache
+c:\users\pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\Retailer.csproj.CoreCompileInputs.cache
+c:\users\pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfoInputs.cache
+c:\users\pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfo.cs

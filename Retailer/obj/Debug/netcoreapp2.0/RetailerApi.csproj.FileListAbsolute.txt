@@ -1,0 +1,17 @@
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\RetailerApi.deps.json
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\RetailerApi.runtimeconfig.json
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\RetailerApi.runtimeconfig.dev.json
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\RetailerApi.dll
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\RetailerApi.pdb
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Eventer.dll
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Eventer.pdb
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\RetailerApi.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\RetailerApi.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\RetailerApi.AssemblyInfoInputs.cache
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\RetailerApi.AssemblyInfo.cs
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\RetailerApi.dll
+C:\Users\Pasha\Source\Repos\Retailer\Retailer\obj\Debug\netcoreapp2.0\RetailerApi.pdb
