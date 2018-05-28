@@ -1,0 +1,1 @@
+C:\Users\Pasha\Source\Repos\Retailer\3rd_Party\RabbitMQ\Receive\bin\Debug\netcoreapp2.0\Receiver.dll

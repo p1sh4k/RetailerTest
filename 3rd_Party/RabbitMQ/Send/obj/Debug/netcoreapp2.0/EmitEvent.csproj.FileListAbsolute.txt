@@ -1,0 +1,8 @@
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\bin\Debug\netcoreapp2.0\EmitEvent.deps.json
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\bin\Debug\netcoreapp2.0\EmitEvent.dll
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\bin\Debug\netcoreapp2.0\EmitEvent.pdb
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\EmitEvent.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\EmitEvent.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\EmitEvent.AssemblyInfo.cs
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\EmitEvent.dll
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\EmitEvent.pdb
