@@ -7,3 +7,12 @@ C:\Users\Pasha\Source\Repos\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreap
 C:\Users\Pasha\Source\Repos\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.AssemblyInfo.cs
 C:\Users\Pasha\Source\Repos\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.dll
 C:\Users\Pasha\Source\Repos\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.pdb
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\bin\Debug\netcoreapp2.0\Eventer.deps.json
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\bin\Debug\netcoreapp2.0\Eventer.dll
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\bin\Debug\netcoreapp2.0\Eventer.pdb
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.AssemblyInfoInputs.cache
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.AssemblyInfo.cs
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.dll
+C:\Users\Pasha\Desktop\Retailer\3rd_Party\RabbitMQ\Send\obj\Debug\netcoreapp2.0\Eventer.pdb
