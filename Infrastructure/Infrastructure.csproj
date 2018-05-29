@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <Reference Include="Microsoft.Extensions.Options">
-      <HintPath>..\..\..\..\.nuget\packages\microsoft.extensions.options\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+      <HintPath>..\..\..\.nuget\packages\microsoft.extensions.options\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
     </Reference>
     <Reference Include="MongoDB.Driver">
       <HintPath>..\..\..\..\.nuget\packages\mongodb.driver\2.7.0-beta0001\lib\netstandard1.5\MongoDB.Driver.dll</HintPath>

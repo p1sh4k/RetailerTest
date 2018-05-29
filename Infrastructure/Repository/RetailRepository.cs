@@ -25,7 +25,7 @@ namespace Infrastructure.Repository
 
         public async Task<RetailModel> GetRetail(string id)
         {
-            var filter = Builders<RetailModel>.Filter.Eq("_Id", ObjectId.Parse(id));
+            var filter = Builders<RetailModel>.Filter.Eq("Id", ObjectId.Parse(id));
             return await _context.Retails
                 .Find(filter)
                 .FirstOrDefaultAsync();
@@ -39,14 +39,15 @@ namespace Infrastructure.Repository
         public async Task<DeleteResult> RemoveRetail(string id)
         {
             return await _context.Retails.DeleteOneAsync(
-                Builders<RetailModel>.Filter.Eq("_Id", ObjectId.Parse(id)));
+                Builders<RetailModel>.Filter.Eq("Id", ObjectId.Parse(id)));
         }
 
-        public async Task<UpdateResult> UpdateRetail(string id, string name)
+        public async Task<UpdateResult> UpdateRetail(string id, string name, string groupid)
         {
-            var filter = Builders<RetailModel>.Filter.Eq("_Id", ObjectId.Parse(id));
+            var filter = Builders<RetailModel>.Filter.Eq("Id", ObjectId.Parse(id));
             var update = Builders<RetailModel>.Update
                 .Set(s => s.Name, name)
+                .Set(s => s.GroupId, groupid)
                 .CurrentDate(s => s.ModificationDate);
 
             return await _context.Retails.UpdateOneAsync(filter, update);

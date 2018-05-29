@@ -24,3 +24,16 @@ C:\Users\Pasha\Source\Repos\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infr
 C:\Users\Pasha\Source\Repos\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfo.cs
 C:\Users\Pasha\Source\Repos\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.dll
 C:\Users\Pasha\Source\Repos\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.deps.json
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\Pasha\Desktop\Retailer\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.pdb
