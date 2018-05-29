@@ -7,7 +7,7 @@ namespace Domain.Entities
     public class GroupModel
     {
         [BsonId]
-        public ObjectId _Id { get; set; }
+        public ObjectId Id { get; set; }
         [BsonRequired]
         public string Name { get; set; }
         [BsonRequired]

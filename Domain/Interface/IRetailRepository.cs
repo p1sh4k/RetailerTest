@@ -15,6 +15,6 @@ namespace Domain.Interface
 
         Task<DeleteResult> RemoveRetail(string id);
 
-        Task<UpdateResult> UpdateRetail(string id, string name);
+        Task<UpdateResult> UpdateRetail(string id, string name, string groupid);
     }
 }
