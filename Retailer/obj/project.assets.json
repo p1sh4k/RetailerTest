@@ -13763,11 +13763,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Retailer\\RetailerApi.csproj",
+      "projectUniqueName": "C:\\Users\\Pasha\\Desktop\\Retailer\\Retailer\\RetailerApi.csproj",
       "projectName": "RetailerApi",
-      "projectPath": "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Retailer\\RetailerApi.csproj",
+      "projectPath": "C:\\Users\\Pasha\\Desktop\\Retailer\\Retailer\\RetailerApi.csproj",
       "packagesPath": "C:\\Users\\Pasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Retailer\\obj\\",
+      "outputPath": "C:\\Users\\Pasha\\Desktop\\Retailer\\Retailer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -13788,14 +13788,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Pasha\\Desktop\\Retailer\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Pasha\\Desktop\\Retailer\\Infrastructure\\Infrastructure.csproj"
             },
-            "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\Domain\\Domain.csproj"
+            "C:\\Users\\Pasha\\Desktop\\Retailer\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Pasha\\Desktop\\Retailer\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\3rd_Party\\RabbitMQ\\Send\\Eventer.csproj": {
-              "projectPath": "C:\\Users\\Pasha\\Source\\Repos\\Retailer\\3rd_Party\\RabbitMQ\\Send\\Eventer.csproj"
+            "C:\\Users\\Pasha\\Desktop\\Retailer\\3rd_Party\\RabbitMQ\\Send\\Eventer.csproj": {
+              "projectPath": "C:\\Users\\Pasha\\Desktop\\Retailer\\3rd_Party\\RabbitMQ\\Send\\Eventer.csproj"
             }
           }
         }

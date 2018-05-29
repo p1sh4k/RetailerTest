@@ -1,21 +1,23 @@
 ﻿using Domain.Entities;
 using Domain.Interface;
 using Microsoft.AspNetCore.Mvc;
+using RetailerApi.Model;
 using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Threading.Tasks;
 
-namespace GrouperApi.Controllers
+namespace RetailerApi.Controllers
 {
     [Produces("application/json")]
     [Route("api/[controller]")]
-    public class GroupsController : Controller
+    public class GroupsController : BaseController
     {
-        private readonly IGroupRepository _GroupRepository;
+        private readonly IGroupRepository _groupRepository;
 
-        public GroupsController(IGroupRepository GroupRepository)
+        public GroupsController(IGroupRepository groupRepository)
         {
-            _GroupRepository = GroupRepository;
+            _groupRepository = groupRepository;
         }
 
         [HttpGet]
@@ -26,7 +28,7 @@ namespace GrouperApi.Controllers
 
         private async Task<IEnumerable<GroupModel>> GetGroupInternal()
         {
-            return await _GroupRepository.GetAllGroups();
+            return await _groupRepository.GetAllGroups();
         }
 
         // GET api/Groups/id
@@ -38,28 +40,60 @@ namespace GrouperApi.Controllers
 
         private async Task<GroupModel> GetGroupByIdInternal(string id)
         {
-            return await _GroupRepository.GetGroup(id) ?? new GroupModel();
+            return await _groupRepository.GetGroup(id) ?? new GroupModel();
         }
 
         // POST api/Groups
         [HttpPost]
-        public void Post([FromBody]string value)
+        public async Task<IActionResult> CreateGroup([FromForm] GroupViewModel model)
         {
-            _GroupRepository.AddGroup(new GroupModel() { Name = value, CreateDate = DateTime.Now, ModificationDate = DateTime.Now });
+            try
+            {
+                await _groupRepository.AddGroup(new GroupModel()
+                {
+                    Name = model.Name,
+                    CreateDate = DateTime.Now,
+                    ModificationDate = DateTime.Now
+                });
+
+                return Ok(model.Name + " Group successfully created");
+            }
+            catch (Exception ex)
+            {
+                return Error((int)HttpStatusCode.BadRequest, ex);
+            }
         }
 
         // PUT api/Groups/id (and name in form)
         [HttpPut("{id}")]
-        public void Put(string id, [FromForm]string name)
+        public async Task<IActionResult> Put([FromForm] GroupViewModel model)
         {
-            _GroupRepository.UpdateGroup(id, name);
+            try
+            {
+                await _groupRepository.UpdateGroup(model.GroupId, model.Name);
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return Error((int)HttpStatusCode.BadRequest, ex);
+            }
         }
 
         // DELETE api/Groups/id
         [HttpDelete("{id}")]
-        public void Delete(string id)
+        public async Task<IActionResult> DeleteGroup([FromBody] string groupid)
         {
-            _GroupRepository.RemoveGroup(id);
+            try
+            {
+                await _groupRepository.RemoveGroup(groupid);
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return Error((int)HttpStatusCode.BadRequest, ex);
+            }
         }
     }
 }
